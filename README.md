@@ -1,18 +1,15 @@
 ### KIM HYUNJI  👩🏻‍💻  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhynjiee&count_bg=%23AE7BF5&title_bg=%23481D94&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 <div display=inline-block>
-
-  <div display=inline-block>
   
-    📌 `Passionate` `Consistent` `Planned`
-
-    📌 `iOS Develop` `Spring Server Develop`
+  📌 `Passionate` `Consistent` `Planned` <br>
   
-  </div>
-
+  📌 `iOS Develop` `Spring Server Develop`
+  
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khyunjiee)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
 <div align=center>
 
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-96588A?style=flat&link=https://purple-log.tistory.com/)](https://purple-log.tistory.com/)
