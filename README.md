@@ -3,10 +3,11 @@
 📌 `Passionate` `Consistent` `Planned`
 
 📌 `iOS Develop` `Spring Server Develop`
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khyunjiee)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align=center>
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khyunjiee)](https://github.com/anuraghazra/github-readme-stats)
-  
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-96588A?style=flat&link=https://purple-log.tistory.com/)](https://purple-log.tistory.com/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:khyunjiee@gmail.com)
   
