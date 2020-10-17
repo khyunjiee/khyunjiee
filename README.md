@@ -2,7 +2,7 @@
 
 <div display=inline-block>
 
-  <div>
+  <div display=inline-block>
   
     📌 `Passionate` `Consistent` `Planned`
 
