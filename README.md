@@ -4,7 +4,7 @@
   
 📌 `Server Develop` `iOS Develop`
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khyunjiee)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khyunjiee&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
 
