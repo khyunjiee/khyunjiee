@@ -1,6 +1,6 @@
 ### KIM HYUNJI  👩🏻‍💻  
   
-📌 `Javascript` `Node.js` `Java` `Swift` `iOS`<br>
+📌 `Javascript` `Node.js` `Java`  `Spring Boot` `Swift` `iOS`<br>
   
 📌 `Server Develop` `iOS Develop`
   
