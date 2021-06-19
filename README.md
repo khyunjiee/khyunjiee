@@ -8,7 +8,7 @@
 
 <div>
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=khyunjiee)](https://github.com/eungyeole/velog-readme-stats)
+  [![Velog's Postings](https://velog-readme-stats.vercel.app/api?name=khyunjiee)](https://github.com/eungyeole/velog-readme-stats)
 
 </div>
 
