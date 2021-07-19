@@ -1,7 +1,7 @@
 ### KIM HYUNJI  👩🏻‍💻  
   
 🚀 Skills
-- Backend `Typescript` `Node.js` `Java`  `Spring Boot` `MongoDB`
+- Backend `Java`  `Spring Boot` `MySQL` `Typescript` `Node.js` `MongoDB`
 - Frontend `Swift` `iOS`<br>
 
 🚀 최근 작성한 기술 블로그 <br>
