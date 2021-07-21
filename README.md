@@ -1,12 +1,12 @@
 ### KIM HYUNJI  👩🏻‍💻  
 
 🚀 Activity
-- SOPT 25th, 26th, 28th
-- SSAFY 6th
+- `SOPT` **25 ~ 28th**
+- `SSAFY` **6th**
 
 🚀 Skills
-- Backend `Java` `Spring MVC` `Spring Boot` `MySQL` `Typescript` `Node.js` `MongoDB`
-- Frontend `Swift` `iOS`<br>
+- **Backend** `Java` `Spring MVC` `Spring Boot` `MySQL` `Typescript` `Node.js` `MongoDB`
+- **Frontend** `Swift` `iOS`<br>
 
 🚀 최근 작성한 기술 블로그 <br>
 
