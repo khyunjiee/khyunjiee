@@ -3,6 +3,7 @@
 🚀 Activity
 - `SOPT` **25 ~ 28th**
 - `SSAFY` **6th**
+- `ShinHan Bank` **디지털/ICT 신입행원**
 
 🚀 Skills
 - **Backend** `Java` `Spring MVC` `Spring Boot` `MySQL` `Typescript` `Node.js` `MongoDB`
