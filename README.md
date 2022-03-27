@@ -6,7 +6,7 @@
 - `ShinHan Bank` **글로벌 인터넷뱅킹**
 
 🚀 Skills
-- **Backend** `Java` `Spring MVC` `Spring Boot` `MySQL` `Typescript` `Node.js` `MongoDB`
+- **Backend** `Java` `Spring MVC` `Spring Boot` `MySQL` `Typescript` `Node.js` `MongoDB` `Websquare` `C++`
 - **Frontend** `Swift` `iOS`<br>
 
 🚀 최근 작성한 기술 블로그 <br>
